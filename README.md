@@ -1,7 +1,7 @@
-# AI DB SQL Executor
+# Rust AI SQL Agent
 This project is currently under development and is created purely for fun and experimentation.
 ## Overview
-AI DB SQL Executor is a Rust-based tool that uses AI to generate SQL queries based on natural language input. It leverages the power of large language models to interpret user questions and convert them into executable SQL queries.
+Rust AI SQL Agent is a Rust AI agent that uses Ollama to generate SQL queries based on the provided database schema and the user's question. It leverages the power of large language models to interpret user questions and convert them into executable SQL queries.
 ## Features
 - Natural language to SQL conversion- Database schema analysis
 - Integration with Ollama for AI processing- Support for PostgreSQL databases
